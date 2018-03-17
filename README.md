@@ -34,8 +34,7 @@ The command line runner is a work in progress; contributions welcome :)
 
 ### Available dependencies
 
-The repo includes jQuery, Backbone, and Underscore. You can use these
-libraries when writing your solutions!
+Nothing. That would be cheating.
 
 ## I want to contribute tests; what do I do?
 
